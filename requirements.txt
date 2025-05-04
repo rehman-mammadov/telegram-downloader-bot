@@ -1,0 +1,4 @@
+aiogram
+aiohttp
+flask
+nest_asyncio
